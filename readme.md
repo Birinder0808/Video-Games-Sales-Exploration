@@ -76,4 +76,4 @@ The summary of my findings are listed as under:-
 
 First I introduced all the qualitative variables as a part of Univariate Exploration. I tried to use all the properties of a chart which could reduce Chart Junk and increas Ink-Data Ratio.
 
-While plotting quantitative data over plot, I tranformed axis with the help of log tranformation. Then re-polished them with appropriate ticks and labels. Since there was no oridnal type data here. Establishing relation was bit difficult. My slide presentation contains 24 questions, with proper answers and visualzation as proof.
+While plotting quantitative data over plot, I tranformed axis with the help of log tranformation. Then re-polished them with appropriate ticks and labels. Since there was no ordinal type data here. Establishing relation was bit difficult. My slide presentation contains 24 questions, with proper answers and visualzation as proof.
